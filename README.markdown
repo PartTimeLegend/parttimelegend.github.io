@@ -23,6 +23,7 @@ fix to our docs repo](https://github.com/octopress/docs).
 
 ## Contributing
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b9b3c2bc254741408bf1ee4a5b7f774d)](https://www.codacy.com/app/PartTimeLegend/parttimelegend-github-io?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/parttimelegend.github.io&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/imathis/octopress.svg?branch=master)](https://travis-ci.org/imathis/octopress)
 
 We love to see people contributing to Octopress, whether it's a bug report, feature suggestion or a pull request. At the moment, we try to keep the core slick and lean, focusing on basic blogging needs, so some of your suggestions might not find their way into Octopress. For those ideas, we started a [list of 3rd party plug-ins](https://github.com/imathis/octopress/wiki/3rd-party-plugins), where you can link your own Octopress plug-in repositories. For the future, we're thinking about ways to easier add them into our main releases.
